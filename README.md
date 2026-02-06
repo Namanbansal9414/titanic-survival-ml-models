@@ -1,3 +1,25 @@
+# Titanic Survival Prediction using Machine Learning
+
+This project implements multiple machine learning classification algorithms to predict passenger survival on the Titanic dataset. It demonstrates an end-to-end machine learning workflow including data preprocessing, model training, evaluation, and performance comparison.
+
+---
+
+## 📌 Project Overview
+
+The objective of this project is to predict whether a passenger survived the Titanic disaster based on available demographic and travel-related features such as age, gender, passenger class, fare, and embarkation port.
+
+This project focuses on applying core machine learning concepts in a structured and reproducible manner.
+
+---
+
+## 📂 Dataset
+
+- Dataset Name: Titanic Dataset
+- Source: Seaborn Library
+- Loaded using:
+  ```python
+  sns.load_dataset("titanic")
+
 No external dataset files are required.
 
 ---
