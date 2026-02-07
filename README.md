@@ -92,7 +92,7 @@ titanic-survival-ml-models/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/titanic-survival-ml-models.git
+   git clone https://github.com/Namanbansal9414/titanic-survival-ml-models.git
    ```
 
 2. Navigate to the project directory:
